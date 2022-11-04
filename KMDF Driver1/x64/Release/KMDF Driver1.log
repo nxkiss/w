@@ -1,0 +1,23 @@
+﻿  Building 'KMDF Driver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\KMDFDriver1.inf
+  Stamping [Version] section with DriverVer=11/04/2022,18.31.53.861
+  driver.cpp
+  KMDF Driver1.vcxproj -> C:\Users\r0wan\source\repos\KMDF Driver1\x64\Release\KMDFDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\r0wan\source\repos\KMDF Driver1\x64\Release\KMDFDriver1.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\r0wan\source\repos\KMDF Driver1\x64\Release\KMDF Driver1\kmdfdriver1.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\r0wan\source\repos\KMDF Driver1\x64\Release\KMDF Driver1\kmdfdriver1.cat
+  
